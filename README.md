@@ -35,7 +35,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ### 🔭 What I'm up to
 
-- 🧑‍💻 I’m currently building a **Healthcare Management System** featuring telemedicine and AI integrations.
+- 🧑‍💻 I’m currently building a **AI/ML** featuring telemedicine and AI integrations.
 - 🌱 I’m currently exploring **Azure Administration (AZ-104)**, **Deep Learning & NLP**.
 - 👯 I’m looking to collaborate on **MERN stack** and **DevOps** projects.
 
@@ -54,3 +54,15 @@ class SoftwareEngineer:
         
     def code(self):
         return "Turning coffee into scalable applications!"
+
+---
+
+### 🔥 My Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pubudugunawardhana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pubudugunawardhana&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
