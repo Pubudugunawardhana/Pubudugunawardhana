@@ -4,7 +4,7 @@
 
 *Full Stack Developer (MERN) | DevOps Enthusiast | Cloud Engineering | AI/ML*
 
-Welcome to my GitHub profile! I'm a 4th-year Computer Science undergraduate and a passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm currently diving deep into Cloud Engineering, DevOps, and advanced AI integrations.
+Welcome to my GitHub profile! I'm a 3rd-year Computer Science undergraduate and a passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm currently diving deep into Cloud Engineering, DevOps, and advanced AI integrations.
 
 ---
 
