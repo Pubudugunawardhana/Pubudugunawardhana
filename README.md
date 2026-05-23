@@ -41,22 +41,6 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ---
 
-### 🎉 Fun Fact
-
-```python
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Pubudu Gunawardhana"
-        self.role = "Passionate Full Stack & DevOps Engineer"
-        self.coffee_addiction_level = "High ☕"
-        
-    def code(self):
-        return "Turning coffee into scalable applications!"
-
----
-
 ### 🔥 My Stats
 
 <p align="center">
