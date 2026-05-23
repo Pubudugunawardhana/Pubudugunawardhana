@@ -29,15 +29,16 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pubudu-gunawardhana-mmpg" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pubudu-gunawardhana" /></a>
+<a href="https://medium.com/@pubudugunawardhana23" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 ---
 
 ### 🔭 What I'm up to
 
-- 🧑‍💻 I’m currently building a **AI/ML** featuring telemedicine and AI integrations.
-- 🌱 I’m currently exploring **Azure Administration (AZ-104)**, **Deep Learning & NLP**.
-- 👯 I’m looking to collaborate on **MERN stack** and **DevOps** projects.
+- 💻 Currently working on my 3rd year project: an **AI-powered Smart Healthcare System** 🏥
+- 🌱 Leveling up my skills in **Cloud (Azure)** and **AI (NLP & Deep Learning)** 🚀
+- 🤝 Always excited to collaborate on **MERN Stack** projects!
 
 ---
 
@@ -45,8 +46,21 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pubudugunawardhana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pubudugunawardhana&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+  </p>
+  <br>
+  
+---
+
+### 🎉 Fun Fact
+
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Pubudu Gunawardhana"
+        self.role = "Passionate Full Stack & DevOps Engineer"
+        self.coffee_addiction_level = "High ☕"
+        
+    def code(self):
+        return "Turning coffee into scalable applications!"
