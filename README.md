@@ -2,9 +2,9 @@
 
 🌍 Based in Sri Lanka | 💡 Passionate about building innovative solutions
 
-*Full Stack Developer (MERN) | DevOps Enthusiast | Cloud Engineering | AI/ML*
+*Full Stack Developer (MERN) | Software QA Automation (Playwright) | Cloud | AI/ML*
 
-Welcome to my GitHub profile! I'm a 3rd-year Computer Science undergraduate and a passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm currently diving deep into Cloud Engineering, DevOps, and advanced AI integrations.
+Welcome to my GitHub profile! I'm a 4th-year Computer Science undergraduate and a passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm currently focused on Full-Stack Development and Software QA Automation with Playwright.
 
 ---
 
@@ -36,9 +36,11 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ### 🔭 What I'm up to
 
-- 💻 Currently working on my 3rd year project: an **AI-powered Smart Healthcare System** 🏥
-- 🌱 Leveling up my skills in **Cloud (Azure)** and **AI (NLP & Deep Learning)** 🚀
-- 🤝 Always excited to collaborate on **MERN Stack** projects!
+- 🎓 Final-year (4th year) Computer Science undergraduate
+- 🎯 Aiming for a career as a **Full-Stack Developer** & **Software QA Automation Engineer**
+- 🎭 Currently mastering **Playwright** for end-to-end test automation 🧪
+- 💻 Building full-stack apps with the **MERN Stack** and writing tests that keep them reliable
+- 🤝 Always excited to collaborate on **Full-Stack** and **Test Automation** projects!
 
 ---
 
