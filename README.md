@@ -37,6 +37,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 ### 🔭 What I'm up to
 
 - 🎓 Final-year (4th year) Computer Science undergraduate
+- 🔬 Currently working on my **Undergraduate Research Project** 📚
 - 🎯 Aiming for a career as a **Full-Stack Developer** & **Software QA Automation Engineer**
 - 🎭 Currently mastering **Playwright** for end-to-end test automation 🧪
 - 💻 Building full-stack apps with the **MERN Stack** and writing tests that keep them reliable
