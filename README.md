@@ -15,7 +15,11 @@ Welcome to my GitHub profile! I'm a 4th-year Computer Science undergraduate and 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -36,8 +40,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ### 🔭 What I'm up to
 
-- 🎓 Final-year (4th year) Computer Science undergraduate
-- 🔬 Currently working on my **Undergraduate Research Project** 📚
+- 🎓 Final-year (4th year) Computer Science undergraduate, currently working on my **Undergraduate Research Project** 🔬📚
 - 🎯 Aiming for a career as a **Full-Stack Developer** & **Software QA Automation Engineer**
 - 🎭 Currently mastering **Playwright** for end-to-end test automation 🧪
 - 💻 Building full-stack apps with the **MERN Stack** and writing tests that keep them reliable
